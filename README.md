@@ -26,8 +26,8 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
  - Também vou deixar uma documentação que explica um pouco mais sobre Markdown --> [Documentação Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
  
   ~~~javascript
- const dica = () => { `Para abrir uma linha de código como esta
- , basta colocar três '~~~' antes e depois do código` }
+ const dica = () => `Para abrir uma linha de código como esta
+ , basta colocar três '~~~' antes e depois do código` 
   const linguagem = {
  caso queria JS: basta colocar javascript depois do primeiro ~~~,
  caso queira html: só colocar html,
