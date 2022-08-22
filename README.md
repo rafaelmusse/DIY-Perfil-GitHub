@@ -14,7 +14,7 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
  
  <details>
  <summary><strong> 🗺 Imagens do primeiro passo</strong></summary><br />
- <img src="https://i.imgur.com/eOwzLDu.png" alt="Primeiro passo imagem">
+ <img src="https://i.imgur.com/cHjzf2a.png" alt="Primeiro passo imagem">
  </details>
  
  ##
