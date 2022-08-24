@@ -71,4 +71,24 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
 - ` <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=rafaelmusse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>`
 <img src="https://i.imgur.com/5xOtRVx.png" alt="GitStats"/>
 
+##
+
+### > 🪐 Badges!
+- Placas para personalizar e colocar links de redes sociais na sua página!
+- Para funcionar o link, basta adicionar uma tag `<img>` dentro da tag `<a/>`
+- Lembre-se de utilizar `target = blank` para não sair do seu perfil sempre que alguém clicar.
+- Vou deixar o site com várias badges para você escolher a desejada! --> [Site Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
+
+
+<div>
+<a href="https://github.com/rafaelmusse" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://github.com/rafaelmusse"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/rafaelmusse" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
 
