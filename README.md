@@ -1,8 +1,9 @@
-### Em construção. 🌠
+### Em construção. 🌠 
 
 #  🌟Repositório: Passo a passo de como costumizar seu perfil do GitHub!
 
-Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar um pouco de como você poderá customizar seu perfil do GitHub do jeito que você quiser! Então para isso, vamos começar do começo, a primeira coisa que temos que fazer é criar um repositorio com o nome do seu usuário, o seu perfil será o reflexo do arquivo do arquivo README.md que existe dentro desse repositório.
+Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar um pouco de como você poderá customizar seu perfil do GitHub do jeito que você quiser! Então para isso, vamos começar do começo, a primeira coisa que temos que fazer é criar um repositorio com o nome do seu usuário, o seu perfil será o reflexo do arquivo do arquivo README.md que existe dentro desse repositório.<br/>
+(🔆 OBS: No final do repositório, vou deixar um link com vários perfis legais para dar inspiração! 🔆)
 
 ##
 
@@ -27,11 +28,7 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
  
   ~~~javascript
  const dica = () => `Para abrir uma linha de código como esta
- , basta colocar três '~~~' antes e depois do código` 
-  const linguagem = {
- caso queria JS: basta colocar javascript depois do primeiro ~~~,
- caso queira html: só colocar html,
- caso queira php: coloque php}
+ , basta colocar três '~~~' ou antes e depois do código` 
  ~~~
  
 <details>
