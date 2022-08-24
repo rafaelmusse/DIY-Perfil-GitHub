@@ -62,11 +62,11 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
  
 ##
 
-### > 🔖 GitHub Stats!
+### > 🔰 GitHub Stats!
 - Painéis que mostram os status da sua conta, commits, estrelas, linguagens mais usadas etc; <br/>
 - Pode ser customizado e tem vários temas; <br/>
 - Vou deixar o link do repositório que explica um pouco mais sobre o GitStats; --> [Repositório GitStats](https://github.com/anuraghazra/github-readme-stats)  <br/>
-- Caso queira fazer algo mais rápido sem estudar o repositório, basta copiar o meu, e trocar o meu username no código pelo seu, e o tema pelo que deseja! <br/>
+- Caso queira fazer algo mais rápido sem estudar o repositório, basta copiar o meu, e trocar o meu username no código pelo seu, e o tema pelo que deseja! ⏬ <br/>
 - `<img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmusse&layout=compact&langs_count=7&theme=dracula"/>`
 - ` <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=rafaelmusse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>`
 <img src="https://i.imgur.com/5xOtRVx.png" alt="GitStats"/>
