@@ -1,9 +1,13 @@
 ### Em construção. 🌠 
 
 #  🌟Repositório: Passo a passo de como costumizar seu perfil do GitHub!
+<div align="center">
+<img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" alt="GithubGi" width=200px>
+</div>
 
 Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar um pouco de como você poderá customizar seu perfil do GitHub do jeito que você quiser! Então para isso, vamos começar do começo, a primeira coisa que temos que fazer é criar um repositorio com o nome do seu usuário, o seu perfil será o reflexo do arquivo do arquivo README.md que existe dentro desse repositório.<br/>
-(🔆 OBS: No final do repositório, vou deixar um link com vários perfis legais para dar inspiração! 🔆)
+<p align="center">(🔆 OBS: No final do repositório, vou deixar um link com vários perfis legais para dar inspiração! 🔆) </p>
+
 
 ##
 
