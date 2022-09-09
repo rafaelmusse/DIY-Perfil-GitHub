@@ -45,7 +45,7 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
  Para quebrar uma linha, da mesma forma que fazemos no HTML, só colocar uma tag `<br/>`
  ##
  Caso queira algum comando de CSS, como width, align=center ou diversos outros, basta colocá-lo dentro da tag desejada.<br/>
- Exemplo: `<img align="center" width="400px" src="https://apenasteste.com" alt="exemplo">`
+ Exemplo: `<img width="400px" src="https://apenasteste.com" alt="exemplo">`
  ##
  Vou falar sobre como colocar Emojis e Gifs na próxima seção! 🎯
  </details>
@@ -96,3 +96,18 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
+### > 💻 Icones das suas linguagens, frameworks, etc.
+<br/>
+<div align="center">
+  <a href="https://github.com/rafaelmusse">
+ <code><img align="center" alt="Js-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "JavaScript"></code>
+ <code><img align="center" alt="Ts-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title ="Typescript"></code>
+  <code><img align="center" alt="HTML-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title = "HTML5"></code>
+  <code><img align="center" alt="CSS-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS3"></code>
+  <code><img align="center" alt="React-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"></code>
+  <code><img align="center" alt="git-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "git"></code>
+  <code><img align="center" alt="NPM-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title = "npm"></code>
+  <code><img align="center" alt="Jest-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title = "Jest"></code>
+  </div>
