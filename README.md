@@ -101,7 +101,7 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
 ### > 💻 Icones das suas linguagens, frameworks, etc.
 <br/>
 <div align="center">
- <code><img align="center" alt="Js-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "JavaScript"></code
+ <code><img align="center" alt="Js-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "JavaScript"></code>
  <code><img align="center" alt="Ts-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title ="Typescript"></code>
   <code><img align="center" alt="HTML-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title = "HTML5"></code>
   <code><img align="center" alt="CSS-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS3"></code>
@@ -114,3 +114,22 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
  ##
   
   - Quem não gosta de mostrar com orgulho aquelas linguagens e habilidades que aprendemos com tanto esforço e gostamos tanto, não é?
+  - Esse tópico será explicativo passo a passo, pois não tem muito o que alterar, todos serão iguais, só mudará as linguagens de cada um.
+  1. Primeiro passo será criar uma `<div>` e dentro da mesma, criar uma tag `<a href="https://github.com/seuUsername">` para que caso alguem clique nas imagens, não seja redirecionado a uma pagina branca apenas com a imagem, pois isso seria uma péssima experiência para quem observa atentamente seu perfil.
+  2. Agora precisamos encontrar nossas imagens em formato PNG e com ótima qualidade, para isso basta acessar --> [dev Icons](https://devicon.dev/)
+  3. Após escolher todas suas imagens, vamos criar uma tag `<img>` colar o link da imagem, e agora mexer com o tamanho, por width! ( Eu aconselho 40px, mas teste você mesmo qual fica melhor!)
+  4. Por fim, precisamos alinhar os icones lado a lado, para isto, temos várias formas, porém a qual eu recomendo será colocar uma tag `<code>` antes e depois de cada imagem, além de alinhar as imagens, cria um efeito visual interessante!
+  5. Pronto! Suas linguagens e tecnologias estão prontas pra brilhar no seu perfil. ( Como extra, vou deixar 2 formas de exibição da tag `<code>`)
+  
+  <details>
+  <summary><strong> Primeira forma ( Padrão )</strong></summary><br/>
+  <div align="center">
+ <code><img alt="Js-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "JavaScript"></code>
+ <code><img alt="Ts-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title ="Typescript"></code>
+  <code><img alt="HTML-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title = "HTML5"></code>
+  <code><img alt="CSS-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS3"></code>
+  <code><img alt="React-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"></code>
+  <code><img alt="git-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "git"></code>
+  <code><img alt="NPM-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title = "npm"></code>
+  <code><img alt="Jest-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title = "Jest"></code>
+  </div>
