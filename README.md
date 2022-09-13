@@ -133,3 +133,21 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
   <code><img alt="NPM-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title = "npm"></code>
   <code><img alt="Jest-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title = "Jest"></code>
   </div>
+ </details>
+ 
+ <br/>
+ 
+ <details>
+ <summary><strong> Segunda forma ( com align="center" dentro das img )</strong></summary><br/>
+ <div align="center">
+ <code><img align="center" alt="Js-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title = "JavaScript"></code>
+ <code><img align="center" alt="Ts-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title ="Typescript"></code>
+  <code><img align="center" alt="HTML-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title = "HTML5"></code>
+  <code><img align="center" alt="CSS-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS3"></code>
+  <code><img align="center" alt="React-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"></code>
+  <code><img align="center" alt="git-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "git"></code>
+  <code><img align="center" alt="NPM-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title = "npm"></code>
+  <code><img align="center" alt="Jest-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title = "Jest"></code>
+  </div>
+  </details>
+ 
