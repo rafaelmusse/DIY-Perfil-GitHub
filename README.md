@@ -64,6 +64,13 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
  - [GIPHY](https://giphy.com/explore/gifty) Maior banco de dados de Gifs no momento.
  - [Pinterest](https://br.pinterest.com) Também relevante e contém imagens estáticas.
  
+ ~~~javascript
+ const dica = () => {
+ `Para alinhar seu Gif ou imagem para esquerda,direita ou centro, 
+ basta colocá-la dentro de uma div, e nessa div chamar um aling="center/right/left`
+ }
+ ~~~
+ 
 ##
 
 ### > 🔰 GitHub Stats!
@@ -158,3 +165,13 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="github snake">
  
  Finalmente chegou a hora da tão amada cobrinha do github, muita gente quer usar, porém os passos são um pouco complicados e as vezes acaba não dando certo, mas fique tranquilo(a), vou tentar explicar da melhor maneira possivel e caso fique alguma duvida, pode me mandar mensagem no instagram ou no gmail, que vou ter prazer em ajudar!
+
+##
+
+### > 💡 Perfis para dar inspiração
+
+<div align="center">
+💎<a href="https://zzetao.github.io/awesome-github-profile">GitHub Profiles - Best ones!</a>💎
+</div>
+
+- Nesse site existem vários perfis incríveis, de tipos e estilos diferentes, basta procurar aquele que mais te agrada, e pra isso tem uma secção de filtros!
