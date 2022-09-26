@@ -72,8 +72,8 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
  <img align = "center" height="150px" width="500px" src="https://pa1.narvii.com/6431/23a5825d2ad28531e787a76ad2a3eb66b834413c_hq.gif" alt="">
  
  - Para uilizar Gifs basta usar uma tag: `<img>` com o link do gif;  Vou deixar também 2 sites para buscar GIFs!<br/>
- - [GIPHY](https://giphy.com/explore/gifty) Maior banco de dados de Gifs no momento.
- - [Pinterest](https://br.pinterest.com) Também relevante e contém imagens estáticas.
+ - [GIPHY](https://giphy.com/explore/gifty) < Maior banco de dados de Gifs no momento.
+ - [Pinterest](https://br.pinterest.com) < Também relevante e contém imagens estáticas.
  
  ~~~javascript
  const dica = () => {
