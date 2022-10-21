@@ -78,7 +78,7 @@ Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar u
  ~~~javascript
  const dica = () => {
  `Para alinhar seu Gif ou imagem para esquerda,direita ou centro, 
- basta colocá-la dentro de uma div, e nessa div chamar um aling="center/right/left`
+ basta chamar um aling="center/right/left dentro da tag`
  }
  ~~~
  
