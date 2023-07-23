@@ -7,7 +7,7 @@
 
 <br />
 
-Fala galera, bem vindos a esse repositório tutorial em que vou tentar ensinar um pouco de como você poderá customizar seu perfil do GitHub do jeito que você quiser! Então para isso, vamos começar do começo, a primeira coisa que temos que fazer é criar um repositorio com o nome do seu usuário, o seu perfil será o reflexo do arquivo do arquivo README.md que existe dentro desse repositório.<br/>
+Bem vindos a esse repositório tutorial em que vou tentar ensinar um pouco de como você poderá customizar seu perfil do GitHub do jeito que você quiser! Então para isso, vamos começar do começo, a primeira coisa que temos que fazer é criar um repositorio com o nome do seu usuário, o seu perfil será o reflexo do arquivo do arquivo README.md que existe dentro desse repositório.<br/>
 <p align="center">(🔆 OBS: No final do repositório, vou deixar um link com vários perfis legais para dar inspiração! 🔆) </p>
 
 
